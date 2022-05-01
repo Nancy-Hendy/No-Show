@@ -2,10 +2,8 @@
 
 ### Introduction:
 
-    In this project, I will be analyzing a dataset that collects information from 100k medical appointments in Brazil
-and is focused on the question of whether or not patients show up for their appointment.
-A number of characteristics about each patient are included in each row of this dataset. So, I will try to find out the
- factors that are most related to the presence/ absence of patients using this analytical project.
+    In this project, I analyzed a dataset that collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
+A number of characteristics about each patient are included in each row of this dataset. So, I tried to find out the factors that are most related to the presence/ absence of patients using this analytical project.
 
 ### Sources helped me to solve the implementation of the project :
 
